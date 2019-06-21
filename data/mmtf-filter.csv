@@ -74,3 +74,5 @@ struct_conf.pdbx_end_PDB_ins_code
 atom_site.pdbx_PDB_ins_code
 atom_site.label_asym_id
 atom_site.auth_asym_id
+
+struct_conn
